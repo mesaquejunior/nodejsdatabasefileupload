@@ -8,7 +8,7 @@
 
 ##  :rocket: About the challenge
 
-The challenge goal is to create a Rest API with Node JS with Typescript using the express framework and the model, repositories and services concepts. It's also necessary use TypeORM with PostgreSQL to persist data and use Multer to send files.
+The challenge goal is to create a Rest API with Node JS with Typescript using the express framework and the model, repositories and services concepts. It's also necessary using TypeORM with PostgreSQL to persist data and use Multer to send files.
 
 
 - GET /transactions: to list all transactions and sum of all transactions spliting by income, outcome and the total;
